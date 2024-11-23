@@ -1,0 +1,52 @@
+[
+    {
+        "Timestamp": "2024-11-21 00:14:26",
+        "CPU Usage (%)": 2.5,
+        "RAM Usage (%)": 27.7,
+        "Disk Usage (%)": 43.1,
+        "Network Sent (MB)": 7.311439514160156,
+        "Network Received (MB)": 205.9076442718506,
+        "Top CPU Process": "systemd (PID 1 - 0.0%)",
+        "Top RAM Process": "gnome-shell (PID 1992 - 5.649694667873851%)"
+    },
+    {
+        "Timestamp": "2024-11-21 00:14:30",
+        "CPU Usage (%)": 35.4,
+        "RAM Usage (%)": 27.7,
+        "Disk Usage (%)": 43.1,
+        "Network Sent (MB)": 7.311901092529297,
+        "Network Received (MB)": 205.90810775756836,
+        "Top CPU Process": "gnome-shell (PID 1992 - 31.3%)",
+        "Top RAM Process": "gnome-shell (PID 1992 - 5.652478053268744%)"
+    },
+    {
+        "Timestamp": "2024-11-21 00:14:34",
+        "CPU Usage (%)": 44.2,
+        "RAM Usage (%)": 28.1,
+        "Disk Usage (%)": 43.1,
+        "Network Sent (MB)": 7.316619873046875,
+        "Network Received (MB)": 205.910813331604,
+        "Top CPU Process": "gnome-shell (PID 1992 - 46.3%)",
+        "Top RAM Process": "gnome-shell (PID 1992 - 5.652478053268744%)"
+    },
+    {
+        "Timestamp": "2024-11-21 00:14:38",
+        "CPU Usage (%)": 67.4,
+        "RAM Usage (%)": 29.4,
+        "Disk Usage (%)": 43.1,
+        "Network Sent (MB)": 7.348052978515625,
+        "Network Received (MB)": 207.33948135375977,
+        "Top CPU Process": "Isolated Web Co (PID 11040 - 103.0%)",
+        "Top RAM Process": "Isolated Web Co (PID 11040 - 6.155325509044427%)"
+    },
+    {
+        "Timestamp": "2024-11-21 00:14:43",
+        "CPU Usage (%)": 92.1,
+        "RAM Usage (%)": 30.1,
+        "Disk Usage (%)": 43.1,
+        "Network Sent (MB)": 7.455731391906738,
+        "Network Received (MB)": 209.25925827026367,
+        "Top CPU Process": "firefox (PID 10384 - 62.1%)",
+        "Top RAM Process": "Isolated Web Co (PID 11040 - 6.145084751459439%)"
+    }
+]
